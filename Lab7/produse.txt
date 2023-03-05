@@ -1,0 +1,3 @@
+50 ciocolata 10
+17 bomboane 7
+3 ciocolata 13.2
