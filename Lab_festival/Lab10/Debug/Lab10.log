@@ -1,0 +1,75 @@
+﻿  Artist.cpp
+  Film.cpp
+D:\UBBMaterialsStuff\FirstYear\Sem2\Info_sem2\LabInfo_sem2_home\Lab10\Lab10\Film.cpp(52,20): warning C4018: '<': signed/unsigned mismatch
+D:\UBBMaterialsStuff\FirstYear\Sem2\Info_sem2\LabInfo_sem2_home\Lab10\Lab10\Film.cpp(75,20): warning C4018: '<': signed/unsigned mismatch
+  app.cpp
+D:\UBBMaterialsStuff\FirstYear\Sem2\Info_sem2\LabInfo_sem2_home\Lab10\Lab10\RepoFile.h(43,20): warning C4018: '<': signed/unsigned mismatch
+D:\UBBMaterialsStuff\FirstYear\Sem2\Info_sem2\LabInfo_sem2_home\Lab10\Lab10\RepoFile.h(40): message : while compiling class template member function 'void RepoFile<Telem>::save_to_file(void)'
+          with
+          [
+              Telem=User
+          ]
+D:\UBBMaterialsStuff\FirstYear\Sem2\Info_sem2\LabInfo_sem2_home\Lab10\Lab10\RepoFile.h(52): message : see reference to function template instantiation 'void RepoFile<Telem>::save_to_file(void)' being compiled
+          with
+          [
+              Telem=User
+          ]
+D:\UBBMaterialsStuff\FirstYear\Sem2\Info_sem2\LabInfo_sem2_home\Lab10\Lab10\RepoFile.h(49): message : while compiling class template member function 'void RepoFile<Telem>::add_elem(int,const Telem &)'
+          with
+          [
+              Telem=User
+          ]
+D:\UBBMaterialsStuff\FirstYear\Sem2\Info_sem2\LabInfo_sem2_home\Lab10\Lab10\RepoFileTxt.h(6): message : see reference to class template instantiation 'RepoFile<Telem>' being compiled
+          with
+          [
+              Telem=User
+          ]
+D:\UBBMaterialsStuff\FirstYear\Sem2\Info_sem2\LabInfo_sem2_home\Lab10\Lab10\app.cpp(16): message : see reference to class template instantiation 'RepoFileTxt<User>' being compiled
+  Performance.cpp
+  Performer.cpp
+  ServiceArtist.cpp
+  ServiceFilm.cpp
+  ServicePerformance.cpp
+  ServiceUser.cpp
+D:\UBBMaterialsStuff\FirstYear\Sem2\Info_sem2\LabInfo_sem2_home\Lab10\Lab10\ServiceUser.cpp(22,30): warning C4101: 'ex': unreferenced local variable
+  tests.cpp
+D:\UBBMaterialsStuff\FirstYear\Sem2\Info_sem2\LabInfo_sem2_home\Lab10\Lab10\RepoFile.h(43,20): warning C4018: '<': signed/unsigned mismatch
+D:\UBBMaterialsStuff\FirstYear\Sem2\Info_sem2\LabInfo_sem2_home\Lab10\Lab10\RepoFile.h(40): message : while compiling class template member function 'void RepoFile<Telem>::save_to_file(void)'
+          with
+          [
+              Telem=User
+          ]
+D:\UBBMaterialsStuff\FirstYear\Sem2\Info_sem2\LabInfo_sem2_home\Lab10\Lab10\RepoFile.h(52): message : see reference to function template instantiation 'void RepoFile<Telem>::save_to_file(void)' being compiled
+          with
+          [
+              Telem=User
+          ]
+D:\UBBMaterialsStuff\FirstYear\Sem2\Info_sem2\LabInfo_sem2_home\Lab10\Lab10\RepoFile.h(49): message : while compiling class template member function 'void RepoFile<Telem>::add_elem(int,const Telem &)'
+          with
+          [
+              Telem=User
+          ]
+D:\UBBMaterialsStuff\FirstYear\Sem2\Info_sem2\LabInfo_sem2_home\Lab10\Lab10\tests.cpp(102): message : see reference to function template instantiation 'void RepoFile<Telem>::add_elem(int,const Telem &)' being compiled
+          with
+          [
+              Telem=User
+          ]
+D:\UBBMaterialsStuff\FirstYear\Sem2\Info_sem2\LabInfo_sem2_home\Lab10\Lab10\RepoFileTxt.h(6): message : see reference to class template instantiation 'RepoFile<Telem>' being compiled
+          with
+          [
+              Telem=User
+          ]
+D:\UBBMaterialsStuff\FirstYear\Sem2\Info_sem2\LabInfo_sem2_home\Lab10\Lab10\tests.cpp(98): message : see reference to class template instantiation 'RepoFileTxt<User>' being compiled
+  UI.cpp
+  User.cpp
+  Utils.cpp
+  ValidatorArtist.cpp
+  ValidatorFilm.cpp
+  ValidatorPerformance.cpp
+  Generating Code...
+D:\UBBMaterialsStuff\FirstYear\Sem2\Info_sem2\LabInfo_sem2_home\Lab10\Lab10\ServiceUser.cpp(33): warning C4717: 'ServiceUser::get_size': recursive on all control paths, function will cause runtime stack overflow
+D:\UBBMaterialsStuff\FirstYear\Sem2\Info_sem2\LabInfo_sem2_home\Lab10\Lab10\ServiceUser.cpp(25): warning C4715: 'ServiceUser::login': not all control paths return a value
+D:\UBBMaterialsStuff\FirstYear\Sem2\Info_sem2\LabInfo_sem2_home\Lab10\Lab10\ServicePerformance.cpp(22): warning C4172: returning address of local variable or temporary: a
+D:\UBBMaterialsStuff\FirstYear\Sem2\Info_sem2\LabInfo_sem2_home\Lab10\Lab10\ServiceFilm.cpp(22): warning C4172: returning address of local variable or temporary: a
+D:\UBBMaterialsStuff\FirstYear\Sem2\Info_sem2\LabInfo_sem2_home\Lab10\Lab10\ServiceArtist.cpp(22): warning C4172: returning address of local variable or temporary: a
+  Lab10.vcxproj -> D:\UBBMaterialsStuff\FirstYear\Sem2\Info_sem2\LabInfo_sem2_home\Lab10\Debug\Lab10.exe
